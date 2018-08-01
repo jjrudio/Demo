@@ -1,0 +1,860 @@
+[
+    [
+        "C:\\Users\\jrudio\\heroku-101\\Demo\\force-app",
+        {
+            "sourcePath": "C:\\Users\\jrudio\\heroku-101\\Demo\\force-app",
+            "isDirectory": true,
+            "size": 0,
+            "modifiedTime": 1533112363579,
+            "changeTime": 1533112363579,
+            "contentHash": "b28b7af69320201d1cf206ebf28373980add1451",
+            "isMetadataFile": false,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": true
+        }
+    ],
+    [
+        "C:\\Users\\jrudio\\heroku-101\\Demo\\force-app\\main",
+        {
+            "sourcePath": "C:\\Users\\jrudio\\heroku-101\\Demo\\force-app\\main",
+            "isDirectory": true,
+            "size": 0,
+            "modifiedTime": 1533112363579,
+            "changeTime": 1533112363579,
+            "contentHash": "7505d64a54e061b7acd54ccd58b49dc43500b635",
+            "isMetadataFile": false,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "C:\\Users\\jrudio\\heroku-101\\Demo\\force-app\\main\\default",
+        {
+            "state": "u",
+            "sourcePath": "C:\\Users\\jrudio\\heroku-101\\Demo\\force-app\\main\\default",
+            "isDirectory": true,
+            "isMetadataFile": false,
+            "size": 0,
+            "modifiedTime": 1533112964850,
+            "changeTime": 1533112964850,
+            "contentHash": "a42b6a815af45973ee4b23554b78328e27298b9f"
+        }
+    ],
+    [
+        "C:\\Users\\jrudio\\heroku-101\\Demo\\force-app\\main\\default\\aura",
+        {
+            "sourcePath": "C:\\Users\\jrudio\\heroku-101\\Demo\\force-app\\main\\default\\aura",
+            "isDirectory": true,
+            "size": 0,
+            "modifiedTime": 1533112363580,
+            "changeTime": 1533112363580,
+            "contentHash": "e52c854d5631eec7468ba4727b4c77eb745f2965",
+            "isMetadataFile": false,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "C:\\Users\\jrudio\\heroku-101\\Demo\\force-app\\main\\default\\aura\\Demo",
+        {
+            "sourcePath": "C:\\Users\\jrudio\\heroku-101\\Demo\\force-app\\main\\default\\aura\\Demo",
+            "isDirectory": true,
+            "size": 0,
+            "modifiedTime": 1533112363590,
+            "changeTime": 1533112363590,
+            "contentHash": "43ddf5730caa5f429a02f9794295fa86dc177f7a",
+            "isMetadataFile": false,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "C:\\Users\\jrudio\\heroku-101\\Demo\\force-app\\main\\default\\aura\\Demo\\Demo.auradoc",
+        {
+            "sourcePath": "C:\\Users\\jrudio\\heroku-101\\Demo\\force-app\\main\\default\\aura\\Demo\\Demo.auradoc",
+            "isDirectory": false,
+            "size": 214,
+            "modifiedTime": 1533112363582,
+            "changeTime": 1533112363582,
+            "contentHash": "407a14e54b2a31f34bdc3d6864f898b846cd6f14",
+            "isMetadataFile": false,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "C:\\Users\\jrudio\\heroku-101\\Demo\\force-app\\main\\default\\aura\\Demo\\Demo.cmp",
+        {
+            "sourcePath": "C:\\Users\\jrudio\\heroku-101\\Demo\\force-app\\main\\default\\aura\\Demo\\Demo.cmp",
+            "isDirectory": false,
+            "size": 201,
+            "modifiedTime": 1533112363583,
+            "changeTime": 1533112363583,
+            "contentHash": "58d7d0772d0a9716ad7e2753e56d050e5647a188",
+            "isMetadataFile": false,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "C:\\Users\\jrudio\\heroku-101\\Demo\\force-app\\main\\default\\aura\\Demo\\Demo.cmp-meta.xml",
+        {
+            "sourcePath": "C:\\Users\\jrudio\\heroku-101\\Demo\\force-app\\main\\default\\aura\\Demo\\Demo.cmp-meta.xml",
+            "isDirectory": false,
+            "size": 241,
+            "modifiedTime": 1533112363584,
+            "changeTime": 1533112363584,
+            "contentHash": "592726dae7a012945e83644c975feff73df551ff",
+            "isMetadataFile": true,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "C:\\Users\\jrudio\\heroku-101\\Demo\\force-app\\main\\default\\aura\\Demo\\Demo.css",
+        {
+            "sourcePath": "C:\\Users\\jrudio\\heroku-101\\Demo\\force-app\\main\\default\\aura\\Demo\\Demo.css",
+            "isDirectory": false,
+            "size": 12,
+            "modifiedTime": 1533112363585,
+            "changeTime": 1533112363585,
+            "contentHash": "62fce833b8cbf54a137353694e5e7fb5183a3aa5",
+            "isMetadataFile": false,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "C:\\Users\\jrudio\\heroku-101\\Demo\\force-app\\main\\default\\aura\\Demo\\Demo.design",
+        {
+            "sourcePath": "C:\\Users\\jrudio\\heroku-101\\Demo\\force-app\\main\\default\\aura\\Demo\\Demo.design",
+            "isDirectory": false,
+            "size": 42,
+            "modifiedTime": 1533112363586,
+            "changeTime": 1533112363586,
+            "contentHash": "6ea7d49903f517fcd762a13181f931479bb35c24",
+            "isMetadataFile": false,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "C:\\Users\\jrudio\\heroku-101\\Demo\\force-app\\main\\default\\aura\\Demo\\Demo.svg",
+        {
+            "sourcePath": "C:\\Users\\jrudio\\heroku-101\\Demo\\force-app\\main\\default\\aura\\Demo\\Demo.svg",
+            "isDirectory": false,
+            "size": 667,
+            "modifiedTime": 1533112363587,
+            "changeTime": 1533112363587,
+            "contentHash": "fe7fd10b3d5c910463a4cbaaa998b5e75bd6ca8a",
+            "isMetadataFile": false,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "C:\\Users\\jrudio\\heroku-101\\Demo\\force-app\\main\\default\\aura\\Demo\\DemoController.js",
+        {
+            "sourcePath": "C:\\Users\\jrudio\\heroku-101\\Demo\\force-app\\main\\default\\aura\\Demo\\DemoController.js",
+            "isDirectory": false,
+            "size": 70,
+            "modifiedTime": 1533112363589,
+            "changeTime": 1533112363589,
+            "contentHash": "71e888bad43bee50e7680e4cdabf4d0ffc6e5de6",
+            "isMetadataFile": false,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "C:\\Users\\jrudio\\heroku-101\\Demo\\force-app\\main\\default\\aura\\Demo\\DemoHelper.js",
+        {
+            "sourcePath": "C:\\Users\\jrudio\\heroku-101\\Demo\\force-app\\main\\default\\aura\\Demo\\DemoHelper.js",
+            "isDirectory": false,
+            "size": 50,
+            "modifiedTime": 1533112363589,
+            "changeTime": 1533112363589,
+            "contentHash": "918895777e9adcce0220bbeb98deb77808a77b47",
+            "isMetadataFile": false,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "C:\\Users\\jrudio\\heroku-101\\Demo\\force-app\\main\\default\\aura\\Demo\\DemoRenderer.js",
+        {
+            "sourcePath": "C:\\Users\\jrudio\\heroku-101\\Demo\\force-app\\main\\default\\aura\\Demo\\DemoRenderer.js",
+            "isDirectory": false,
+            "size": 55,
+            "modifiedTime": 1533112363591,
+            "changeTime": 1533112363591,
+            "contentHash": "3ef474273bcb41f3564687a65b0357460ae004ed",
+            "isMetadataFile": false,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "C:\\Users\\jrudio\\heroku-101\\Demo\\YelpDemo",
+        {
+            "sourcePath": "C:\\Users\\jrudio\\heroku-101\\Demo\\YelpDemo",
+            "isDirectory": true,
+            "size": 0,
+            "modifiedTime": 1533112673698,
+            "changeTime": 1533112673698,
+            "contentHash": "b28b7af69320201d1cf206ebf28373980add1451",
+            "isMetadataFile": false,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": true
+        }
+    ],
+    [
+        "C:\\Users\\jrudio\\heroku-101\\Demo\\YelpDemo\\main",
+        {
+            "sourcePath": "C:\\Users\\jrudio\\heroku-101\\Demo\\YelpDemo\\main",
+            "isDirectory": true,
+            "size": 0,
+            "modifiedTime": 1533112662726,
+            "changeTime": 1533112662726,
+            "contentHash": "7505d64a54e061b7acd54ccd58b49dc43500b635",
+            "isMetadataFile": false,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "C:\\Users\\jrudio\\heroku-101\\Demo\\YelpDemo\\main\\default",
+        {
+            "sourcePath": "C:\\Users\\jrudio\\heroku-101\\Demo\\YelpDemo\\main\\default",
+            "isDirectory": true,
+            "size": 0,
+            "modifiedTime": 1533112662770,
+            "changeTime": 1533112662770,
+            "contentHash": "23dc5dce7c50ee5d687a95170c9787e18f8751d2",
+            "isMetadataFile": false,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "C:\\Users\\jrudio\\heroku-101\\Demo\\YelpDemo\\main\\default\\aura",
+        {
+            "sourcePath": "C:\\Users\\jrudio\\heroku-101\\Demo\\YelpDemo\\main\\default\\aura",
+            "isDirectory": true,
+            "size": 0,
+            "modifiedTime": 1533112662750,
+            "changeTime": 1533112662750,
+            "contentHash": "2f23212b50a83c6f1bd3b906c82b2cbaaceee0ff",
+            "isMetadataFile": false,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "C:\\Users\\jrudio\\heroku-101\\Demo\\YelpDemo\\main\\default\\aura\\dataRetrieved",
+        {
+            "sourcePath": "C:\\Users\\jrudio\\heroku-101\\Demo\\YelpDemo\\main\\default\\aura\\dataRetrieved",
+            "isDirectory": true,
+            "size": 0,
+            "modifiedTime": 1533112662753,
+            "changeTime": 1533112662753,
+            "contentHash": "b199bee8ee4e4bc30bb7c1f8f8a231b5e91844e1",
+            "isMetadataFile": false,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "C:\\Users\\jrudio\\heroku-101\\Demo\\YelpDemo\\main\\default\\aura\\dataRetrieved\\dataRetrieved.evt",
+        {
+            "sourcePath": "C:\\Users\\jrudio\\heroku-101\\Demo\\YelpDemo\\main\\default\\aura\\dataRetrieved\\dataRetrieved.evt",
+            "isDirectory": false,
+            "size": 156,
+            "modifiedTime": 1533112662752,
+            "changeTime": 1533112662752,
+            "contentHash": "fc2433a634f223435a01da80934238039f724b21",
+            "isMetadataFile": false,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "C:\\Users\\jrudio\\heroku-101\\Demo\\YelpDemo\\main\\default\\aura\\dataRetrieved\\dataRetrieved.evt-meta.xml",
+        {
+            "sourcePath": "C:\\Users\\jrudio\\heroku-101\\Demo\\YelpDemo\\main\\default\\aura\\dataRetrieved\\dataRetrieved.evt-meta.xml",
+            "isDirectory": false,
+            "size": 219,
+            "modifiedTime": 1533112662753,
+            "changeTime": 1533112662753,
+            "contentHash": "1f2b0cd4e0e6ddfc20d058aa07bf3cfea7480835",
+            "isMetadataFile": true,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "C:\\Users\\jrudio\\heroku-101\\Demo\\YelpDemo\\main\\default\\aura\\Storage",
+        {
+            "sourcePath": "C:\\Users\\jrudio\\heroku-101\\Demo\\YelpDemo\\main\\default\\aura\\Storage",
+            "isDirectory": true,
+            "size": 0,
+            "modifiedTime": 1533112662730,
+            "changeTime": 1533112662730,
+            "contentHash": "2a5d896e5ac922b48d10f041aa82a83416412050",
+            "isMetadataFile": false,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "C:\\Users\\jrudio\\heroku-101\\Demo\\YelpDemo\\main\\default\\aura\\Storage\\Storage.cmp",
+        {
+            "sourcePath": "C:\\Users\\jrudio\\heroku-101\\Demo\\YelpDemo\\main\\default\\aura\\Storage\\Storage.cmp",
+            "isDirectory": false,
+            "size": 917,
+            "modifiedTime": 1533112662729,
+            "changeTime": 1533112662729,
+            "contentHash": "6aabf819a1e1b796bfcdd5602e5d72994b00ac1c",
+            "isMetadataFile": false,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "C:\\Users\\jrudio\\heroku-101\\Demo\\YelpDemo\\main\\default\\aura\\Storage\\Storage.cmp-meta.xml",
+        {
+            "sourcePath": "C:\\Users\\jrudio\\heroku-101\\Demo\\YelpDemo\\main\\default\\aura\\Storage\\Storage.cmp-meta.xml",
+            "isDirectory": false,
+            "size": 216,
+            "modifiedTime": 1533112662730,
+            "changeTime": 1533112662730,
+            "contentHash": "67ed1f5733b1ce65f40dc2cd4dc35a8bd63a6b3c",
+            "isMetadataFile": true,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "C:\\Users\\jrudio\\heroku-101\\Demo\\YelpDemo\\main\\default\\aura\\YelpDemo",
+        {
+            "sourcePath": "C:\\Users\\jrudio\\heroku-101\\Demo\\YelpDemo\\main\\default\\aura\\YelpDemo",
+            "isDirectory": true,
+            "size": 0,
+            "modifiedTime": 1533112662742,
+            "changeTime": 1533112662742,
+            "contentHash": "55427221cf793ceb19d5da9d90a7d8a473859018",
+            "isMetadataFile": false,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "C:\\Users\\jrudio\\heroku-101\\Demo\\YelpDemo\\main\\default\\aura\\YelpDemo\\YelpDemo.cmp",
+        {
+            "sourcePath": "C:\\Users\\jrudio\\heroku-101\\Demo\\YelpDemo\\main\\default\\aura\\YelpDemo\\YelpDemo.cmp",
+            "isDirectory": false,
+            "size": 5483,
+            "modifiedTime": 1533112662733,
+            "changeTime": 1533112662733,
+            "contentHash": "2e432c4f45ae25d2ffe0f8550edaa136ce33cd72",
+            "isMetadataFile": false,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "C:\\Users\\jrudio\\heroku-101\\Demo\\YelpDemo\\main\\default\\aura\\YelpDemo\\YelpDemo.cmp-meta.xml",
+        {
+            "sourcePath": "C:\\Users\\jrudio\\heroku-101\\Demo\\YelpDemo\\main\\default\\aura\\YelpDemo\\YelpDemo.cmp-meta.xml",
+            "isDirectory": false,
+            "size": 219,
+            "modifiedTime": 1533112662734,
+            "changeTime": 1533112662734,
+            "contentHash": "1f2b0cd4e0e6ddfc20d058aa07bf3cfea7480835",
+            "isMetadataFile": true,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "C:\\Users\\jrudio\\heroku-101\\Demo\\YelpDemo\\main\\default\\aura\\YelpDemo\\YelpDemo.css",
+        {
+            "sourcePath": "C:\\Users\\jrudio\\heroku-101\\Demo\\YelpDemo\\main\\default\\aura\\YelpDemo\\YelpDemo.css",
+            "isDirectory": false,
+            "size": 1298,
+            "modifiedTime": 1533112662735,
+            "changeTime": 1533112662735,
+            "contentHash": "9d4109cc3aae80ee9285d82fd779c81adf4f07a9",
+            "isMetadataFile": false,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "C:\\Users\\jrudio\\heroku-101\\Demo\\YelpDemo\\main\\default\\aura\\YelpDemo\\YelpDemo.design",
+        {
+            "sourcePath": "C:\\Users\\jrudio\\heroku-101\\Demo\\YelpDemo\\main\\default\\aura\\YelpDemo\\YelpDemo.design",
+            "isDirectory": false,
+            "size": 346,
+            "modifiedTime": 1533112662737,
+            "changeTime": 1533112662737,
+            "contentHash": "1ab870c096696a3c08082e2416ed2b2f4ebbf4d1",
+            "isMetadataFile": false,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "C:\\Users\\jrudio\\heroku-101\\Demo\\YelpDemo\\main\\default\\aura\\YelpDemo\\YelpDemo.svg",
+        {
+            "sourcePath": "C:\\Users\\jrudio\\heroku-101\\Demo\\YelpDemo\\main\\default\\aura\\YelpDemo\\YelpDemo.svg",
+            "isDirectory": false,
+            "size": 1021,
+            "modifiedTime": 1533112662738,
+            "changeTime": 1533112662738,
+            "contentHash": "cd1ea0dfa3cf906fdec342699622ed85ed00d1af",
+            "isMetadataFile": false,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "C:\\Users\\jrudio\\heroku-101\\Demo\\YelpDemo\\main\\default\\aura\\YelpDemo\\YelpDemoController.js",
+        {
+            "sourcePath": "C:\\Users\\jrudio\\heroku-101\\Demo\\YelpDemo\\main\\default\\aura\\YelpDemo\\YelpDemoController.js",
+            "isDirectory": false,
+            "size": 1085,
+            "modifiedTime": 1533112662740,
+            "changeTime": 1533112662740,
+            "contentHash": "bf9279ede7dc946bed67264287c14d6108974cf7",
+            "isMetadataFile": false,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "C:\\Users\\jrudio\\heroku-101\\Demo\\YelpDemo\\main\\default\\aura\\YelpDemo\\YelpDemoHelper.js",
+        {
+            "sourcePath": "C:\\Users\\jrudio\\heroku-101\\Demo\\YelpDemo\\main\\default\\aura\\YelpDemo\\YelpDemoHelper.js",
+            "isDirectory": false,
+            "size": 5924,
+            "modifiedTime": 1533112662741,
+            "changeTime": 1533112662741,
+            "contentHash": "84ba6ce9a3e20fbcb0e9f55545eb1e6d13bee40d",
+            "isMetadataFile": false,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "C:\\Users\\jrudio\\heroku-101\\Demo\\YelpDemo\\main\\default\\aura\\YelpDemo\\YelpDemoRenderer.js",
+        {
+            "sourcePath": "C:\\Users\\jrudio\\heroku-101\\Demo\\YelpDemo\\main\\default\\aura\\YelpDemo\\YelpDemoRenderer.js",
+            "isDirectory": false,
+            "size": 738,
+            "modifiedTime": 1533112662742,
+            "changeTime": 1533112662742,
+            "contentHash": "d665b7d29b11f2eb8c02b6373c06e47346705312",
+            "isMetadataFile": false,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "C:\\Users\\jrudio\\heroku-101\\Demo\\YelpDemo\\main\\default\\aura\\YelpService",
+        {
+            "sourcePath": "C:\\Users\\jrudio\\heroku-101\\Demo\\YelpDemo\\main\\default\\aura\\YelpService",
+            "isDirectory": true,
+            "size": 0,
+            "modifiedTime": 1533112662749,
+            "changeTime": 1533112662749,
+            "contentHash": "d47e5e9de70c9305eaef7db09904879e88538027",
+            "isMetadataFile": false,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "C:\\Users\\jrudio\\heroku-101\\Demo\\YelpDemo\\main\\default\\aura\\YelpService\\YelpService.cmp",
+        {
+            "sourcePath": "C:\\Users\\jrudio\\heroku-101\\Demo\\YelpDemo\\main\\default\\aura\\YelpService\\YelpService.cmp",
+            "isDirectory": false,
+            "size": 832,
+            "modifiedTime": 1533112662744,
+            "changeTime": 1533112662744,
+            "contentHash": "fae52a427064a301ace9fc689e9cf859b1de43e6",
+            "isMetadataFile": false,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "C:\\Users\\jrudio\\heroku-101\\Demo\\YelpDemo\\main\\default\\aura\\YelpService\\YelpService.cmp-meta.xml",
+        {
+            "sourcePath": "C:\\Users\\jrudio\\heroku-101\\Demo\\YelpDemo\\main\\default\\aura\\YelpService\\YelpService.cmp-meta.xml",
+            "isDirectory": false,
+            "size": 219,
+            "modifiedTime": 1533112662746,
+            "changeTime": 1533112662746,
+            "contentHash": "20374ea20c0da58fb533b70b688c82384c590c03",
+            "isMetadataFile": true,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "C:\\Users\\jrudio\\heroku-101\\Demo\\YelpDemo\\main\\default\\aura\\YelpService\\YelpServiceController.js",
+        {
+            "sourcePath": "C:\\Users\\jrudio\\heroku-101\\Demo\\YelpDemo\\main\\default\\aura\\YelpService\\YelpServiceController.js",
+            "isDirectory": false,
+            "size": 213,
+            "modifiedTime": 1533112662748,
+            "changeTime": 1533112662748,
+            "contentHash": "82df0e7b416e9a9a797701c72b510d71d8909b80",
+            "isMetadataFile": false,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "C:\\Users\\jrudio\\heroku-101\\Demo\\YelpDemo\\main\\default\\aura\\YelpService\\YelpServiceHelper.js",
+        {
+            "sourcePath": "C:\\Users\\jrudio\\heroku-101\\Demo\\YelpDemo\\main\\default\\aura\\YelpService\\YelpServiceHelper.js",
+            "isDirectory": false,
+            "size": 2042,
+            "modifiedTime": 1533112662749,
+            "changeTime": 1533112662749,
+            "contentHash": "74d2133713841f14daa33d3c87fdeb29e09b4ca3",
+            "isMetadataFile": false,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "C:\\Users\\jrudio\\heroku-101\\Demo\\YelpDemo\\main\\default\\classes",
+        {
+            "sourcePath": "C:\\Users\\jrudio\\heroku-101\\Demo\\YelpDemo\\main\\default\\classes",
+            "isDirectory": true,
+            "size": 0,
+            "modifiedTime": 1533112662766,
+            "changeTime": 1533112662766,
+            "contentHash": "413cc000459baf4a60b8da8b6e618c128d015725",
+            "isMetadataFile": false,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "C:\\Users\\jrudio\\heroku-101\\Demo\\YelpDemo\\main\\default\\classes\\MockHttpResponseGenerator.cls",
+        {
+            "sourcePath": "C:\\Users\\jrudio\\heroku-101\\Demo\\YelpDemo\\main\\default\\classes\\MockHttpResponseGenerator.cls",
+            "isDirectory": false,
+            "size": 672,
+            "modifiedTime": 1533112662755,
+            "changeTime": 1533112662755,
+            "contentHash": "de1151d4a6d414d95b7bea943be4d2406363ff54",
+            "isMetadataFile": false,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "C:\\Users\\jrudio\\heroku-101\\Demo\\YelpDemo\\main\\default\\classes\\MockHttpResponseGenerator.cls-meta.xml",
+        {
+            "sourcePath": "C:\\Users\\jrudio\\heroku-101\\Demo\\YelpDemo\\main\\default\\classes\\MockHttpResponseGenerator.cls-meta.xml",
+            "isDirectory": false,
+            "size": 179,
+            "modifiedTime": 1533112662757,
+            "changeTime": 1533112662757,
+            "contentHash": "9a94b82242fa2049cf50679a6efc2c1a478fe364",
+            "isMetadataFile": true,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "C:\\Users\\jrudio\\heroku-101\\Demo\\YelpDemo\\main\\default\\classes\\TestInTheNeighborhoodController.cls",
+        {
+            "sourcePath": "C:\\Users\\jrudio\\heroku-101\\Demo\\YelpDemo\\main\\default\\classes\\TestInTheNeighborhoodController.cls",
+            "isDirectory": false,
+            "size": 829,
+            "modifiedTime": 1533112662759,
+            "changeTime": 1533112662759,
+            "contentHash": "854a69c44213389336401c045649d80bd0cb59c4",
+            "isMetadataFile": false,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "C:\\Users\\jrudio\\heroku-101\\Demo\\YelpDemo\\main\\default\\classes\\TestInTheNeighborhoodController.cls-meta.xml",
+        {
+            "sourcePath": "C:\\Users\\jrudio\\heroku-101\\Demo\\YelpDemo\\main\\default\\classes\\TestInTheNeighborhoodController.cls-meta.xml",
+            "isDirectory": false,
+            "size": 179,
+            "modifiedTime": 1533112662760,
+            "changeTime": 1533112662760,
+            "contentHash": "9a94b82242fa2049cf50679a6efc2c1a478fe364",
+            "isMetadataFile": true,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "C:\\Users\\jrudio\\heroku-101\\Demo\\YelpDemo\\main\\default\\classes\\YelpDemoController.cls",
+        {
+            "sourcePath": "C:\\Users\\jrudio\\heroku-101\\Demo\\YelpDemo\\main\\default\\classes\\YelpDemoController.cls",
+            "isDirectory": false,
+            "size": 1061,
+            "modifiedTime": 1533112662762,
+            "changeTime": 1533112662762,
+            "contentHash": "b948c3afe75b12d147b48bd2e22496000622a4ed",
+            "isMetadataFile": false,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "C:\\Users\\jrudio\\heroku-101\\Demo\\YelpDemo\\main\\default\\classes\\YelpDemoController.cls-meta.xml",
+        {
+            "sourcePath": "C:\\Users\\jrudio\\heroku-101\\Demo\\YelpDemo\\main\\default\\classes\\YelpDemoController.cls-meta.xml",
+            "isDirectory": false,
+            "size": 179,
+            "modifiedTime": 1533112662763,
+            "changeTime": 1533112662763,
+            "contentHash": "9a94b82242fa2049cf50679a6efc2c1a478fe364",
+            "isMetadataFile": true,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "C:\\Users\\jrudio\\heroku-101\\Demo\\YelpDemo\\main\\default\\classes\\YelpServiceController.cls",
+        {
+            "sourcePath": "C:\\Users\\jrudio\\heroku-101\\Demo\\YelpDemo\\main\\default\\classes\\YelpServiceController.cls",
+            "isDirectory": false,
+            "size": 1143,
+            "modifiedTime": 1533112662765,
+            "changeTime": 1533112662765,
+            "contentHash": "648d69af87ee21de3e02c7927702ad1c425a60c5",
+            "isMetadataFile": false,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "C:\\Users\\jrudio\\heroku-101\\Demo\\YelpDemo\\main\\default\\classes\\YelpServiceController.cls-meta.xml",
+        {
+            "sourcePath": "C:\\Users\\jrudio\\heroku-101\\Demo\\YelpDemo\\main\\default\\classes\\YelpServiceController.cls-meta.xml",
+            "isDirectory": false,
+            "size": 179,
+            "modifiedTime": 1533112662767,
+            "changeTime": 1533112662767,
+            "contentHash": "9a94b82242fa2049cf50679a6efc2c1a478fe364",
+            "isMetadataFile": true,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "C:\\Users\\jrudio\\heroku-101\\Demo\\YelpDemo\\main\\default\\remoteSiteSettings",
+        {
+            "sourcePath": "C:\\Users\\jrudio\\heroku-101\\Demo\\YelpDemo\\main\\default\\remoteSiteSettings",
+            "isDirectory": true,
+            "size": 0,
+            "modifiedTime": 1533112662769,
+            "changeTime": 1533112662769,
+            "contentHash": "953a648bdddc5b63ac59255b53b662d2e89d3a89",
+            "isMetadataFile": false,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "C:\\Users\\jrudio\\heroku-101\\Demo\\YelpDemo\\main\\default\\remoteSiteSettings\\YelpApp.remoteSite-meta.xml",
+        {
+            "sourcePath": "C:\\Users\\jrudio\\heroku-101\\Demo\\YelpDemo\\main\\default\\remoteSiteSettings\\YelpApp.remoteSite-meta.xml",
+            "isDirectory": false,
+            "size": 274,
+            "modifiedTime": 1533112662769,
+            "changeTime": 1533112662769,
+            "contentHash": "a0ad435300a759ecf99cdd0add238f95edc395e4",
+            "isMetadataFile": true,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "C:\\Users\\jrudio\\heroku-101\\Demo\\YelpDemo\\main\\default\\staticresources",
+        {
+            "sourcePath": "C:\\Users\\jrudio\\heroku-101\\Demo\\YelpDemo\\main\\default\\staticresources",
+            "isDirectory": true,
+            "size": 0,
+            "modifiedTime": 1533112662774,
+            "changeTime": 1533112662774,
+            "contentHash": "3f1f5b622ae048af33321106049a3d2e9c6f32fa",
+            "isMetadataFile": false,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "C:\\Users\\jrudio\\heroku-101\\Demo\\YelpDemo\\main\\default\\staticresources\\leaflet.resource",
+        {
+            "sourcePath": "C:\\Users\\jrudio\\heroku-101\\Demo\\YelpDemo\\main\\default\\staticresources\\leaflet.resource",
+            "isDirectory": false,
+            "size": 242945,
+            "modifiedTime": 1533112662773,
+            "changeTime": 1533112662773,
+            "contentHash": "5575820f24c0d7a9a1ad445847ba728dde6be3bc",
+            "isMetadataFile": false,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "C:\\Users\\jrudio\\heroku-101\\Demo\\YelpDemo\\main\\default\\staticresources\\leaflet.resource-meta.xml",
+        {
+            "sourcePath": "C:\\Users\\jrudio\\heroku-101\\Demo\\YelpDemo\\main\\default\\staticresources\\leaflet.resource-meta.xml",
+            "isDirectory": false,
+            "size": 215,
+            "modifiedTime": 1533112662774,
+            "changeTime": 1533112662774,
+            "contentHash": "aa85ab19e7ac0f4c7ee86646e20a759ac6219897",
+            "isMetadataFile": true,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "C:\\Users\\jrudio\\heroku-101\\Demo",
+        {
+            "sourcePath": "C:\\Users\\jrudio\\heroku-101\\Demo",
+            "isDirectory": true,
+            "size": 0,
+            "modifiedTime": 1533112631618,
+            "changeTime": 1533112631618,
+            "contentHash": "a5c21e3877f0e536e76d9d125f82dcc109c70eae",
+            "isMetadataFile": false,
+            "state": "u",
+            "isWorkspace": true,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "C:\\Users\\jrudio\\heroku-101\\Demo\\force-app\\main\\default\\objects\\Account\\Account.object-meta.xml",
+        {
+            "state": "u",
+            "sourcePath": "C:\\Users\\jrudio\\heroku-101\\Demo\\force-app\\main\\default\\objects\\Account\\Account.object-meta.xml",
+            "isDirectory": false,
+            "isMetadataFile": true,
+            "size": 3921,
+            "modifiedTime": 1533112964837,
+            "changeTime": 1533112964837,
+            "contentHash": "f9283cea22e9fbcd8c7cc5a1c1173a6c2b7b3cc7"
+        }
+    ],
+    [
+        "C:\\Users\\jrudio\\heroku-101\\Demo\\force-app\\main\\default\\flexipages\\Account_Record_Page.flexipage-meta.xml",
+        {
+            "state": "u",
+            "sourcePath": "C:\\Users\\jrudio\\heroku-101\\Demo\\force-app\\main\\default\\flexipages\\Account_Record_Page.flexipage-meta.xml",
+            "isDirectory": false,
+            "isMetadataFile": true,
+            "size": 6571,
+            "modifiedTime": 1533112964853,
+            "changeTime": 1533112964853,
+            "contentHash": "5ef5342175e8cc57fce1f1a1f3afb84cc40a129b"
+        }
+    ],
+    [
+        "C:\\Users\\jrudio\\heroku-101\\Demo\\force-app\\main\\default\\objects\\Account",
+        {
+            "state": "u",
+            "sourcePath": "C:\\Users\\jrudio\\heroku-101\\Demo\\force-app\\main\\default\\objects\\Account",
+            "isDirectory": true,
+            "isMetadataFile": false,
+            "size": 0,
+            "modifiedTime": 1533112964837,
+            "changeTime": 1533112964837,
+            "contentHash": "7e07eb8f1af457f56a1101d84cb8d06e8249b6d6"
+        }
+    ],
+    [
+        "C:\\Users\\jrudio\\heroku-101\\Demo\\force-app\\main\\default\\objects",
+        {
+            "state": "u",
+            "sourcePath": "C:\\Users\\jrudio\\heroku-101\\Demo\\force-app\\main\\default\\objects",
+            "isDirectory": true,
+            "isMetadataFile": false,
+            "size": 0,
+            "modifiedTime": 1533112964834,
+            "changeTime": 1533112964834,
+            "contentHash": "85dfa32c97d8618d1bea083609e2c8a29845abe5"
+        }
+    ],
+    [
+        "C:\\Users\\jrudio\\heroku-101\\Demo\\force-app\\main\\default\\flexipages",
+        {
+            "state": "u",
+            "sourcePath": "C:\\Users\\jrudio\\heroku-101\\Demo\\force-app\\main\\default\\flexipages",
+            "isDirectory": true,
+            "isMetadataFile": false,
+            "size": 0,
+            "modifiedTime": 1533112964852,
+            "changeTime": 1533112964852,
+            "contentHash": "84ae45b14ce04fbcb63fa653277ce669fbb307ea"
+        }
+    ]
+]
